@@ -3,6 +3,6 @@
     "assert": "^2.1.0"
   },
   "scripts": {
-    "test": "node checkInterval.test.js"
+    "test": "node findMinMax.test.js"
   }
 }
